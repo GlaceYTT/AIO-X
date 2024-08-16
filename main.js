@@ -187,6 +187,7 @@ connectToDatabase().then(() => {
 client.distube = new DisTube(client, {
     plugins: [
         new SpotifyPlugin(),
+        new SoundCloudPlugin(),
         new YtDlpPlugin(),
     ],
 });
