@@ -22,10 +22,10 @@
     },
     "lavalink": {
         "lavalink": {
-            "host": "saher.inzeworld.com",
-            "port": 3128,
-            "password": "lava.inzeworld.com",
-            "secure": false
+             "password": "catfein",
+  "host": "lava.catfein.com",
+  "port": 4000,
+  "secure": false
         }
     }, 
     "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
