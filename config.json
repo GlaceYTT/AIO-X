@@ -22,9 +22,9 @@
     },
     "lavalink": {
         "lavalink": {
-            "password": "charlesnaig-lavalink",
-        "host": "212.227.65.132",
-        "port": 10296,
+            "password": "horizxon.studio",
+        "host": "lava1.horizxon.studio",
+        "port": 80,
         "secure": false
         }
     }, 
