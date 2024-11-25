@@ -22,8 +22,8 @@
     },
     "lavalink": {
         "lavalink": {
-            "password": "horizxon.studio",
-        "host": "lava1.horizxon.studio",
+            "password": "youshallnotpass",
+        "host": "node.lewdhutao.my.eu.org",
         "port": 80,
         "secure": false
         }
