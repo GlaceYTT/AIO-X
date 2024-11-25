@@ -22,9 +22,9 @@
     },
     "lavalink": {
         "lavalink": {
-            "password": "youshallnotpass",
-        "host": "node.lewdhutao.my.eu.org",
-        "port": 80,
+            "password": "saher.inzeworld.com",
+        "host": "lava.inzeworld.com",
+        "port": 3128,
         "secure": false
         }
     }, 
